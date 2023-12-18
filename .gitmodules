@@ -1,6 +1,6 @@
 [submodule "DemoAPI"]
 	path = DemoAPI
-	url = ./DemoAPI
+	url = https://github.com/pbolkas/demoAPI.git
 [submodule "DemoAPITest"]
 	path = DemoAPITest
-	url = ./DemoAPITest
+	url = https://github.com/pbolkas/demoAPITest.git
