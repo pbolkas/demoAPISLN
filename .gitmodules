@@ -1,0 +1,6 @@
+[submodule "DemoAPI"]
+	path = DemoAPI
+	url = ./DemoAPI
+[submodule "DemoAPITest"]
+	path = DemoAPITest
+	url = ./DemoAPITest
